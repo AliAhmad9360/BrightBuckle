@@ -39,3 +39,14 @@ C:\Users\aliah\source\repos\BrightBuckle\BrightBuckle\bin\Debug\net6.0\Domain.pd
 C:\Users\aliah\source\repos\BrightBuckle\BrightBuckle\bin\Debug\net6.0\Infrastructure.dll
 C:\Users\aliah\source\repos\BrightBuckle\BrightBuckle\bin\Debug\net6.0\Infrastructure.pdb
 C:\Users\aliah\source\repos\BrightBuckle\BrightBuckle\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aliah\source\repos\BrightBuckle\BrightBuckle\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aliah\source\repos\BrightBuckle\BrightBuckle\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aliah\source\repos\BrightBuckle\BrightBuckle\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aliah\source\repos\BrightBuckle\BrightBuckle\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aliah\source\repos\BrightBuckle\BrightBuckle\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aliah\source\repos\BrightBuckle\BrightBuckle\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\aliah\source\repos\BrightBuckle\BrightBuckle\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aliah\source\repos\BrightBuckle\BrightBuckle\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\aliah\source\repos\BrightBuckle\BrightBuckle\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\aliah\source\repos\BrightBuckle\BrightBuckle\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\aliah\source\repos\BrightBuckle\BrightBuckle\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll

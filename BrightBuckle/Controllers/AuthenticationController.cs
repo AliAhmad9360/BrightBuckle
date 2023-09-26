@@ -20,8 +20,8 @@ namespace BrightBuckle.Controllers
         [Route("register")]
         public IActionResult Register(RegisterRequest request)
         {
-            //var result = _authenticationService.Register(req)
-            return Ok();
+            var result = _authenticationService.Register(request.FirstName, request.MiddleName, request.LastName, request.DateOfBirth, request.Email, request.Age, request.PhoneNumber, request.ZipCode, request.Username, request.Password);
+            return Ok(result);
         }
 
         [HttpPost]
