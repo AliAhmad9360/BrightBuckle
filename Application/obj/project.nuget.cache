@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X0H9sZt40fM4cKcrm4pBIjA7znJitgBP9UFOrjLGORsM9TYuxMfuO/uxmhcrylX+buFh1k9QfgFuHLM/j+/2/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aliah\\source\\repos\\BrightBuckle\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aliah\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
